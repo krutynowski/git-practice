@@ -1,0 +1,11 @@
+commit 333eff0b75255512022d5900062284e310bad896
+Author: Kinga <Kinga@Yachirus-MacBook-Pro.local>
+Date:   Fri Feb 12 20:06:23 2016 -0800
+
+    adding more files meow
+
+commit 6e6990ffe7f1ea5ef67277da1a347d579ec35481
+Author: Kinga Rutynowski <kingarutynowski@Kingas-MacBook-Pro.local>
+Date:   Mon Feb 8 12:39:36 2016 -0800
+
+    I am adding files to git!
